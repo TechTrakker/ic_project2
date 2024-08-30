@@ -1,1 +1,1 @@
-# ic_project2
+Final project of WordPress website.
